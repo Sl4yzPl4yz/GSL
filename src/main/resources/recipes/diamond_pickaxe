@@ -1,0 +1,9 @@
+name: "diamond_pickaxe"
+displayname: "Forge Diamond Pickaxes"
+factory: tools
+icon: DIAMOND_PICKAXE
+ingredients:
+  DIAMOND: 16
+results:
+  DIAMOND_PICKAXE: 8
+powerrequirement: 3 
