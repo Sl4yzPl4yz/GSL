@@ -1,0 +1,9 @@
+name: "diamond_axe"
+displayname: "Forge Diamond Axes"
+factory: tools
+icon: DIAMOND_AXE
+ingredients:
+  DIAMOND: 16
+results:
+  DIAMOND_PICKAXE: 8
+powerrequirement: 3 
